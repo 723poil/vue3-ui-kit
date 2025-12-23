@@ -15,6 +15,8 @@ export { default as AppImageUpload } from "./components/AppImageUpload.vue";
 export { default as AppImage } from "./components/AppImage.vue";
 export { default as AppSelect } from "./components/AppSelect.vue";
 export { default as AppNotFound } from "./components/AppNotFound.vue";
+export { default as AppTabs } from "./components/AppTabs.vue";
+export { default as AppToc } from "./components/AppToc.vue";
 export { default as DesignSystemPage } from "./components/DesignSystemPage.vue";
 
 // Composables

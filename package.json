@@ -1,8 +1,16 @@
 {
   "name": "@723poil/vue3-ui-kit",
   "private": false,
-  "version": "0.0.14",
+  "version": "0.0.15",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/723poil/vue3-ui-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/723poil/vue3-ui-kit/issues"
+  },
+  "homepage": "https://github.com/723poil/vue3-ui-kit#readme",
   "type": "module",
   "files": [
     "dist",
